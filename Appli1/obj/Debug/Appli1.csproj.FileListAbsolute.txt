@@ -1,0 +1,23 @@
+C:\Users\CDI15\source\repos\PremiersPas\Appli1\bin\Debug\Appli1.exe.config
+C:\Users\CDI15\source\repos\PremiersPas\Appli1\bin\Debug\Appli1.exe
+C:\Users\CDI15\source\repos\PremiersPas\Appli1\bin\Debug\Appli1.pdb
+C:\Users\CDI15\source\repos\PremiersPas\Appli1\obj\Debug\Appli1.csprojResolveAssemblyReference.cache
+C:\Users\CDI15\source\repos\PremiersPas\Appli1\obj\Debug\Appli1.frmAppli1.resources
+C:\Users\CDI15\source\repos\PremiersPas\Appli1\obj\Debug\Appli1.Properties.Resources.resources
+C:\Users\CDI15\source\repos\PremiersPas\Appli1\obj\Debug\Appli1.csproj.GenerateResource.Cache
+C:\Users\CDI15\source\repos\PremiersPas\Appli1\obj\Debug\Appli1.csproj.CoreCompileInputs.cache
+C:\Users\CDI15\source\repos\PremiersPas\Appli1\obj\Debug\Appli1.exe
+C:\Users\CDI15\source\repos\PremiersPas\Appli1\obj\Debug\Appli1.pdb
+D:\AFPA CDI\Module 2_Développer interface utilisateur\Séquence 1_Développer un interface utlisateur\Séance 5_Développer 1 interface graphique autonome_Partie 1\Mes exercices\Copies sauvegardes\PremiersPas\Appli1\obj\Debug\Appli1.frmAppli1.resources
+D:\AFPA CDI\Module 2_Développer interface utilisateur\Séquence 1_Développer un interface utlisateur\Séance 5_Développer 1 interface graphique autonome_Partie 1\Mes exercices\Copies sauvegardes\PremiersPas\Appli1\obj\Debug\Appli1.Properties.Resources.resources
+D:\AFPA CDI\Module 2_Développer interface utilisateur\Séquence 1_Développer un interface utlisateur\Séance 5_Développer 1 interface graphique autonome_Partie 1\Mes exercices\Copies sauvegardes\PremiersPas\Appli1\obj\Debug\Appli1.csproj.GenerateResource.Cache
+D:\AFPA CDI\Module 2_Développer interface utilisateur\Séquence 1_Développer un interface utlisateur\Séance 5_Développer 1 interface graphique autonome_Partie 1\Mes exercices\Copies sauvegardes\PremiersPas\Appli1\obj\Debug\Appli1.csproj.CoreCompileInputs.cache
+P:\UML\PremiersPas\Appli1\bin\Debug\Appli1.exe.config
+P:\UML\PremiersPas\Appli1\bin\Debug\Appli1.exe
+P:\UML\PremiersPas\Appli1\bin\Debug\Appli1.pdb
+P:\UML\PremiersPas\Appli1\obj\Debug\Appli1.frmAppli1.resources
+P:\UML\PremiersPas\Appli1\obj\Debug\Appli1.Properties.Resources.resources
+P:\UML\PremiersPas\Appli1\obj\Debug\Appli1.csproj.GenerateResource.Cache
+P:\UML\PremiersPas\Appli1\obj\Debug\Appli1.csproj.CoreCompileInputs.cache
+P:\UML\PremiersPas\Appli1\obj\Debug\Appli1.exe
+P:\UML\PremiersPas\Appli1\obj\Debug\Appli1.pdb
